@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/farhanansari888/SnapTune/blob/main/" alt="SnapTune app icon" width="200" />
+<img src="https://raw.githubusercontent.com/farhanansari888/SnapTune/main/resources/imgs/app_icon.png" alt="SnapTune app icon" width="200" />
 
 # SnapTune
 
