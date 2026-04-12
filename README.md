@@ -21,10 +21,9 @@
 
 <img src="https://raw.githubusercontent.com/farhanansari888/SnapTune/main/resources/imgs/1.png" alt="Home screen" width="30%" />
 <img src="https://raw.githubusercontent.com/farhanansari888/SnapTune/main/resources/imgs/2.png" alt="Artist screen" width="30%" />
-<img src="https://github.com/MetrolistGroup/Metrolist/blob/main/fastlane/metadata/android/en-US/images/screenshots/screenshot_3.png" alt="Recognize music screen" width="30%" />
-<img src="https://github.com/MetrolistGroup/Metrolist/blob/main/fastlane/metadata/android/en-US/images/screenshots/screenshot_4.png" alt="Listen together screen" width="30%" />
-<img src="https://github.com/MetrolistGroup/Metrolist/blob/main/fastlane/metadata/android/en-US/images/screenshots/screenshot_5.png" alt="Player screen" width="30%" />
-<img src="https://github.com/MetrolistGroup/Metrolist/blob/main/fastlane/metadata/android/en-US/images/screenshots/screenshot_6.png" alt="Player lyrics screen" width="30%" />
+<img src="https://raw.githubusercontent.com/farhanansari888/SnapTune/main/resources/imgs/3.png" alt="Recognize music screen" width="30%" />
+<img src="https://raw.githubusercontent.com/farhanansari888/SnapTune/main/resources/imgs/4.png" alt="Player screen" width="30%" />
+<img src="https://raw.githubusercontent.com/farhanansari888/SnapTune/main/resources/imgs/5.png" alt="Player lyrics screen" width="30%" />
 
 </div>
 
