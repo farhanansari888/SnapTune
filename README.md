@@ -72,7 +72,6 @@
       <ul>
         <li>Full library management</li>
         <li>Local playlists</li>
-        <li>Import playlists</li>
         <li>Reorder songs in playlist or queue</li>
         <li>YouTube Music account login</li>
         <li>Sync songs, artists, albums, and playlists</li>
