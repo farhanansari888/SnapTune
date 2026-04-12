@@ -78,10 +78,6 @@
 </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-
-</td>
-    <td width="50%" valign="top">
 
 ### Interface
 - Home screen widget
