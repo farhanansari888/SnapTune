@@ -24,6 +24,7 @@
 <img src="https://raw.githubusercontent.com/farhanansari888/SnapTune/main/resources/imgs/3.png" alt="Recognize music screen" width="30%" />
 <img src="https://raw.githubusercontent.com/farhanansari888/SnapTune/main/resources/imgs/4.png" alt="Player screen" width="30%" />
 <img src="https://raw.githubusercontent.com/farhanansari888/SnapTune/main/resources/imgs/5.png" alt="Player lyrics screen" width="30%" />
+<img src="https://raw.githubusercontent.com/farhanansari888/SnapTune/main/resources/imgs/6.png" alt="About screen" width="30%" />
 
 </div>
 
