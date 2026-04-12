@@ -97,7 +97,6 @@
 
 
 <div align="center">
-### Buy Me a Coffee
 
 <a href="https://www.buymeacoffee.com/ansarixfarhan">
   <img src="https://cdn.buymeacoffee.com/uploads/project_updates/2023/12/08f1cf468ace518fc8cc9e352a2e613f.png" alt="Buy Me a Coffee" width="150" />
