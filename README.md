@@ -36,56 +36,57 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-
-### Playback
-- Stream any song or video from YouTube Music
-- Background playback
-- Download & cache for offline use
-- Skip silence
-- Sleep timer
-
-</td>
-    <td width="50%" valign="top">
-
-### Audio
-- Audio normalization
-- Tempo & pitch control
-- Equalizer
-
-</td>
+    <td colspan="2" valign="top">
+      <h3>Playback</h3>
+      <ul>
+        <li>Stream any song or video from YouTube Music</li>
+        <li>Background playback</li>
+        <li>Download & cache for offline use</li>
+        <li>Skip silence</li>
+        <li>Sleep timer</li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-
-### Lyrics & Discovery
-- Live synced lyrics
-- AI-powered lyrics translation
-- Personalized quick picks
-- Search songs, albums, artists, videos, and playlists
-
-</td>
+      <h3>Audio</h3>
+      <ul>
+        <li>Audio normalization</li>
+        <li>Tempo & pitch control</li>
+        <li>Equalizer</li>
+      </ul>
+    </td>
     <td width="50%" valign="top">
-
-### Library & Account
-- Full library management
-- Local playlists
-- Import playlists
-- Reorder songs in playlist or queue
-- YouTube Music account login
-- Sync songs, artists, albums, and playlists
-
-</td>
+      <h3>Lyrics & Discovery</h3>
+      <ul>
+        <li>Live synced lyrics</li>
+        <li>AI-powered lyrics translation</li>
+        <li>Personalized quick picks</li>
+        <li>Search songs, albums, artists, videos, and playlists</li>
+      </ul>
+    </td>
   </tr>
   <tr>
-
-### Interface
-- Home screen widget
-- Light / Dark / Black / Dynamic theme modes
-- Dynamic / 19 color palettes
-- Built with Material 3
-
-</td>
+    <td width="50%" valign="top">
+      <h3>Library & Account</h3>
+      <ul>
+        <li>Full library management</li>
+        <li>Local playlists</li>
+        <li>Import playlists</li>
+        <li>Reorder songs in playlist or queue</li>
+        <li>YouTube Music account login</li>
+        <li>Sync songs, artists, albums, and playlists</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Interface</h3>
+      <ul>
+        <li>Home screen widget</li>
+        <li>Light / Dark / Black / Dynamic theme modes</li>
+        <li>Dynamic / 19 color palettes</li>
+        <li>Built with Material 3</li>
+      </ul>
+    </td>
   </tr>
 </table>
 
