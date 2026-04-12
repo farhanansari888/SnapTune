@@ -122,11 +122,11 @@
   <tbody>
     <tr>
       <td><strong>InnerTune</strong></td>
-      <td><a href="https://github.com/z-huang">Zion Huang</a> · <a href="https://github.com/Malopieds">Malopieds</a></td>
+      <td><a href="https://github.com/z-huang">Zion Huang</a> · <a href="https://github.com/z-huang/InnerTune">InnerTune</a></td>
     </tr>
     <tr>
       <td><strong>OuterTune</strong></td>
-      <td><a href="https://github.com/DD3Boh">Davide Garberi</a> · <a href="https://github.com/mikooomich">Michael Zh</a></td>
+      <td><a href="https://github.com/DD3Boh">Davide Garberi</a> · <a href="https://github.com/OuterTune/OuterTune">OuterTune</a></td>
     </tr>
     <tr>
       <td><strong>Metrolist</strong></td>
