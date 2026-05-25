@@ -80,7 +80,6 @@
     <td width="50%" valign="top">
       <h3>Interface</h3>
       <ul>
-        <li>Home screen widget</li>
         <li>Light / Dark / Black / Dynamic theme modes</li>
         <li>Dynamic / 50+ color palettes</li>
         <li>Built with Material 3</li>
