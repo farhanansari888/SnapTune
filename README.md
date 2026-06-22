@@ -10,8 +10,7 @@
 
 </div>
 
-> [!WARNING]
-> Regional Restriction - If YouTube Music is unavailable in your region, this app will not work without a **VPN or proxy** connecting to a supported region.
+Enjoy music without limits with SnapTune — ad-free streaming, seamless background playback, offline downloads, synced lyrics, and a stunning modern UI inspired by Material 3.
 
 ---
 
