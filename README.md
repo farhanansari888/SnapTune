@@ -1,166 +1,155 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/farhanansari888/SnapTune/main/resources/imgs/app_icon.png" alt="SnapTune app icon" width="200" />
+  <img src="https://github.com/farhanansari888/SnapTune/blob/main/fastlane/metadata/android/en-US/images/icon.png" width="180" height="180" alt="SnapTune Logo" style="border-radius: 24%">
 
-# SnapTune
+  <h1>🎵 SnapTune</h1>
 
-### YouTube Music client for Android
+  <p align="center">
+    <strong>The Ultimate Ad-Free Music Experience for Android</strong>
+    <br />
+    <em>Beautiful Material 3 design meets powerful audio customization, offline playback, and seamless integration.</em>
+  </p>
 
-<br/>
+  <p align="center">
+    <a href="https://snaptune.indevs.in"><b>🌐 Website</b></a> •
+    <a href="#key-features"><b>✨ Features</b></a> •
+    <a href="https://snaptune.indevs.in/privacy"><b>🔒 Privacy</b></a> •
+    <a href="#-download-now"><b>⬇️ Download</b></a> •
+    <a href="#screenshots"><b>📸 Gallery</b></a> •
+    <a href="https://github.com/farhanansari888/SnapTune/issues/new/choose"><b>💬 Support</b></a>
+  </p>
 
+  <div align="center">
+    <img src="https://img.shields.io/github/v/release/farhanansari888/SnapTune?style=for-the-badge&color=6366f1&labelColor=1e1e2e&logo=github" alt="Latest Version" />
+    <img src="https://img.shields.io/github/downloads/farhanansari888/SnapTune/total?style=for-the-badge&color=6366f1&labelColor=1e1e2e&logo=github" alt="Downloads" />
+    <img src="https://img.shields.io/badge/Language-Kotlin-7f52ff?style=for-the-badge&logo=kotlin&color=6366f1&labelColor=1e1e2e" alt="Kotlin Language" />
+    <img src="https://img.shields.io/badge/Toolkit-Jetpack_Compose-4285f4?style=for-the-badge&logo=jetpack-compose&color=6366f1&labelColor=1e1e2e" alt="Jetpack Compose Toolkit" />
+    <img src="https://img.shields.io/badge/Design-Material_3-000000?style=for-the-badge&logo=material-design&color=6366f1&labelColor=1e1e2e" alt="Material Design 3" />
+    <a href="https://www.virustotal.com/gui/file/5a815652600eedcc3fd1a6ef4fd71f466157bafad78b965572f0f0e6b2718541" target="_blank"><img src="https://img.shields.io/badge/VirusTotal-SAFE-green?style=for-the-badge&logo=virustotal&logoColor=white&labelColor=1e1e2e&color=5865F2" alt="VirusTotal" /></a>
+    <a href="https://t.me/SnapTuneXBot"><img src="https://img.shields.io/badge/Join_Community-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  </div>
+  
+  <br />
 </div>
-
-Enjoy music without limits with SnapTune — ad-free streaming, seamless background playback, offline downloads, synced lyrics, and a stunning modern UI inspired by Material 3.
 
 ---
 
+## About SnapTune
+
+**SnapTune** is a premium Android music streaming application that combines powerful functionality with stunning aesthetics. Experience your music without interruptions—no ads, no paywalls, just pure listening pleasure. Built with modern technologies like Jetpack Compose and Material Design 3, SnapTune offers an unparalleled audio experience with advanced customization options.
+
+> [!IMPORTANT]  
+> **Geographic Availability:** YouTube Music must be supported in your region. If not available, use a VPN or proxy set to a supported region for initial setup.
+
+---
+
+## 📸 Showcase
+
 <div align="center">
 
-<h1><a id="screenshots"></a>Screenshots</h1>
-
-<img src="https://raw.githubusercontent.com/farhanansari888/SnapTune/main/resources/imgs/1.png" alt="Home screen" width="30%" />
-<img src="https://raw.githubusercontent.com/farhanansari888/SnapTune/main/resources/imgs/2.png" alt="Artist screen" width="30%" />
-<img src="https://raw.githubusercontent.com/farhanansari888/SnapTune/main/resources/imgs/3.png" alt="Recognize music screen" width="30%" />
-<img src="https://raw.githubusercontent.com/farhanansari888/SnapTune/main/resources/imgs/4.png" alt="Player screen" width="30%" />
-<img src="https://raw.githubusercontent.com/farhanansari888/SnapTune/main/resources/imgs/5.png" alt="Player lyrics screen" width="30%" />
-<img src="https://raw.githubusercontent.com/farhanansari888/SnapTune/main/resources/imgs/6.png" alt="About screen" width="30%" />
+<img src="https://snaptune.indevs.in/imgs/hero-showcase.png" alt="SnapTune" width="85%" />
 
 </div>
 
 ---
 
+## ✨ Key Features
+
 <div align="center">
 
-<h1><a id="features"></a>Features</h1>
+| **Playback** | **Audio Control** |
+|---|---|
+| 🎵 Multiple account support with quick switching | 🔊 EBU R128 loudness normalization |
+| 🔇 Ad-free playback with background listening | ⚙️ Tempo, pitch & playback speed control |
+| 📚 Access all playlists, liked songs & subscriptions | ↔️ Crossfade between tracks |
+| 📱 Support for local file & streaming playback | 🎚️ System equalizer & spatial audio |
+| ⚡ Fast startup & lightweight performance | | 
+| 🔐 Private, uninterrupted listening experience | | 
 
-<table>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>Playback</h3>
-      <ul>
-        <li>Stream any song or video from YouTube Music</li>
-        <li>Background playback</li>
-        <li>Download & cache for offline use</li>
-        <li>Skip silence</li>
-        <li>Sleep timer</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Audio</h3>
-      <ul>
-        <li>Audio normalization</li>
-        <li>Tempo & pitch control</li>
-        <li>Equalizer</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Lyrics & Discovery</h3>
-      <ul>
-        <li>Live synced lyrics</li>
-        <li>AI-powered lyrics translation</li>
-        <li>Personalized quick picks</li>
-        <li>Search songs, albums, artists, videos, and playlists</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Library & Account</h3>
-      <ul>
-        <li>Full library management</li>
-        <li>Local playlists</li>
-        <li>Reorder songs in playlist or queue</li>
-        <li>YouTube Music account login</li>
-        <li>Sync songs, artists, albums, and playlists</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Interface</h3>
-      <ul>
-        <li>Light / Dark / Black / Dynamic theme modes</li>
-        <li>Dynamic / 50+ color palettes</li>
-        <li>Built with Material 3</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+| **Lyrics & Discovery** | **Sync & Social** |
+|---|---|
+| 🎤 Live-synced lyrics with real-time updates | 🎹 Spotify playlist import |
+| 🌍 Multilingual lyrics translation & romanization | 🎶 YouTube Music account integration |
+| 🤖 AI-powered lyrics translation & enhancement | 🎮 Discord rich presence support |
+| 🔍 Music recognition for songs around you | | 
+| 📊 Detailed listening statistics & analytics | | 
+
+| **User Interface** | **Customization** |
+|---|---|
+| 🎨 Beautiful Material 3 design language | ⚙️ Deep playback & interface settings |
+| 🌈 Album-art powered dynamic color themes | 🎨 Unlimited dynamic color theming |
+| 🎮 9 different player layout styles | 👆 Gesture customization & mapping |
+| 🖼️ 8 different player background styles | ✨ Animation & transition tuning |
+| 📐 Responsive layouts for all screen sizes | 🔧 Flexible controls for your workflow |
+| 🧹 Clean, intuitive browsing & player views | | 
 
 </div>
 
-<br>
+---
+
+## ⬇️ Download Now
 
 <div align="center">
 
-<a href="https://www.buymeacoffee.com/ansarixfarhan">
-  <img src="https://cdn.buymeacoffee.com/uploads/project_updates/2023/12/08f1cf468ace518fc8cc9e352a2e613f.png" alt="Buy Me a Coffee" width="150" />
-</a>
+### 📲 Get SnapTune Today
+
+<p align="center">
+  <a href="https://github.com/farhanansari888/SnapTune/releases/latest">
+    <img src="https://raw.githubusercontent.com/farhanansari888/SnapTune/refs/heads/main/fastlane/metadata/android/en-US/images/badge_github.png" height="60" alt="Get SnapTune on GitHub">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/farhanansari888/SnapTune/releases/latest">
+    <img src="https://stc.utdstc.com/img/mediakit/download-gio-big.png" height="60" alt="Get SnapTune on Uptodown">
+  </a>
+</p>
+
+> [!WARNING]  
+> **Safety Notice:** Only download from official sources listed above. We are not responsible for any risks or issues from third-party sources. Always verify you're downloading from a trusted location.
+
 </div>
 
-<div align="center">
+---
 
-<h1>Special Thanks</h1>
+## 📖 How SnapTune Works
 
-<h3>SnapTune stands on the shoulders of incredible open-source work!</h3>
+SnapTune operates as an **independent third-party client** for music streaming. Here's what you need to know:
 
-<h3>Main Inspirations</h3>
- 
-<table>
-  <thead>
-    <tr>
-      <th align="center">Project</th>
-      <th align="center">Authors</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>InnerTune</strong></td>
-      <td><a href="https://github.com/z-huang">Zion Huang</a> · <a href="https://github.com/z-huang/InnerTune">InnerTune</a></td>
-    </tr>
-    <tr>
-      <td><strong>OuterTune</strong></td>
-      <td><a href="https://github.com/DD3Boh">Davide Garberi</a> · <a href="https://github.com/OuterTune/OuterTune">OuterTune</a></td>
-    </tr>
-    <tr>
-      <td><strong>Metrolist</strong></td>
-      <td><a href="https://github.com/mostafaalagamy">Mo Agamy</a> · <a href="https://github.com/MetrolistGroup/Metrolist">Metrolist</a></td>
-    </tr>
-  </tbody>
-</table>
+- 🎯 **Premium Experience** – Enjoy ad-free, uninterrupted music playback
+- 🔒 **Secure Authentication** – Log in with your YouTube Music account
+- 📚 **Your Library** – Access all your playlists, liked songs, and recommendations
+- 🔄 **Cloud Sync** – Seamlessly sync your music across devices
+- 📱 **Offline Ready** – Download tracks for listening without internet
 
-<h3>Libraries & Integrations</h3>
- 
-<table>
-  <thead>
-    <tr>
-      <th align="center">Project</th>
-      <th align="center">Contribution</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://better-lyrics.boidu.dev"><strong>Better Lyrics</strong></a></td>
-      <td>Time-synced lyrics with word-by-word highlighting & YouTube Music integration</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/maxrave-dev/SimpMusic"><strong>SimpMusic Lyrics</strong></a></td>
-      <td>Lyrics data via the SimpMusic Lyrics API</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/aleksey-saenko/MusicRecognizer"><strong>MusicRecognizer</strong></a></td>
-      <td>Music recognition feature & Shazam API integration</td>
-    </tr>
-  </tbody>
-</table>
-</div>
+---
+
+## ⚖️ Legal Disclaimer
+
+SnapTune is an **independent third-party application**. Please be aware:
+
+✓ **Not affiliated with** – Google LLC, YouTube, or YouTube Music  
+✓ **Does not bypass** – YouTube's technical protections or security measures  
+✓ **Respects creators** – We encourage you to support artists through official channels  
+
+**Your Responsibility:** Ensure your use complies with applicable laws and terms of service.
+
+---
+
+## 📄 About This Project
+
+SnapTune is a premium music streaming application developed with cutting-edge technology and a focus on user experience.
 
 <div align="center">
-
-<br/>
-
-**Made with ❤️ by [Farhan Ansari](https://github.com/farhanansari888)**
-
-**This project stands with Palestine 🇵🇸**
-
+  <img src="https://snaptune.indevs.in/imgs/SnapTuneBanner.png" alt="SnapTune Banner" width="100%"/>
+  
+  <br /><br />
+  
+  <h3>Made with ❤️ by Farhan Ansari</h3>
+  
+  <p><strong>Empowering Music Lovers with Freedom & Control</strong></p>
+  
+  <p>
+    <a href="https://github.com/farhanansari888/SnapTune">GitHub</a> •
+    <a href="https://snaptune.indevs.in">Website</a> •
+    <a href="https://t.me/SnapTuneXBot">Telegram</a>
+  </p>
 </div>
