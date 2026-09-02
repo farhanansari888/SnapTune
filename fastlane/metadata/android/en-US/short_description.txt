@@ -1,0 +1,1 @@
+A lightweight, modern Android audio player designed for seamless local playback and online streaming with a fluid Material 3 interface.

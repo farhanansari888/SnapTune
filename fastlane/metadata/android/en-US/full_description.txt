@@ -1,0 +1,23 @@
+A lightweight, modern Android audio player designed for seamless local playback and online streaming with a fluid Material 3 interface.
+
+Features:
+
+* Ad-free streaming with full background playback
+* Seamless account sync for personal playlists, liked tracks, and subscriptions
+* Universal local audio file support (FLAC, MP3, AAC, OPUS, WAV)
+* Lightweight engine optimized for instant startup and low battery consumption
+* Private, ad-free, and tracker-free listening environment
+* EBU R128 auto-loudness normalization
+* Variable tempo, pitch, and speed adjustment tools
+* Gapless playback and smooth track crossfading
+* System-level equalizer and spatial audio compatibility
+* Synchronized, real-time live lyrics
+* Instant lyric translation and romanization
+* Ambient music identification to detect songs playing nearby
+* Detailed listening history and audio statistics
+* Discord Rich Presence status sharing
+* Modern Material You design system
+* Dynamic palette extraction from current album art
+* Adaptive layouts tailored for standard screens, foldables, and tablets
+* Deep interface, gesture, and playback customization
+* Configurable transitions, animations, and home view modularity
