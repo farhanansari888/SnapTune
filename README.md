@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/farhanansari888/SnapTuneWebsite/refs/heads/main/favicon.png" width="180" height="180" alt="SnapTune Logo" style="border-radius: 24%">
+  <img src="https://github.com/farhanansari888/SnapTuneWebsite/blob/main/favicon.png" width="180" height="180" alt="SnapTune Logo" style="border-radius: 24%">
 
   <h1>🎵 SnapTune</h1>
 
